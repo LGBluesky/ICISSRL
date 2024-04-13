@@ -28,7 +28,6 @@ The main dependencies of this project are as follows:
 The project organizes relevant checkpoints based on different self-supervised learning frameworks, encompassing self-supervised representation learning weights and weights for downstream tasks like linear probing and fine-tuning. The directory structure is delineated below: 
 
 **SSRL name** \
-│
 ├── **pretrained** \
 │   ├── ratio1-1.pth \
 │   └── ratio1-5.pth \
