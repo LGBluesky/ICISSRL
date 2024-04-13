@@ -27,22 +27,22 @@ The main dependencies of this project are as follows:
 
 The project organizes relevant checkpoints based on different self-supervised learning frameworks, encompassing self-supervised representation learning weights and weights for downstream tasks like linear probing and fine-tuning. The directory structure is delineated below: 
 
-SSRL name \
+**SSRL name** \
 │
-├── pretrained \
+├── **pretrained** \
 │   ├── ratio1-1.pth \
 │   └── ratio1-5.pth \
 │              ...    \
 │   └── ratio1-10,000.pth \
-├── downstream taks \
-│   ├── linear probing \
+├── **downstream tasks** \
+│   ├── **linear probing** \
 │        └── ratio_1-100.pth \
 │        └──       ...       \
 │        └── ratio_100-100.pth \
-│   ├── fine-tune              \
+│   ├── **fine-tune**              \
 │        └── ratio_1-100.pth \
 │        └──           ...   \
-│        └── ratio_1-100.pth \
+│        └── ratio_1-100.pth 
 
 The following table provides the relevant checkpoints:
 
