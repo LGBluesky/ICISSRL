@@ -53,7 +53,7 @@ The following table provides the relevant checkpoints:
 
 ## Implementation
 
-​        The details of pre-training under two  self-supervised representation learning methods and the training and evaluation of related downstream tasks can be found in the respective **Readme.md** files of each project. 
+​        The details of pre-training under two  self-supervised representation learning methods and the training and evaluation of related downstream tasks can be found in the respective **README.md** files of each project. 
 
 
 
