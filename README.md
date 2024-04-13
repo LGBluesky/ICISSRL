@@ -30,19 +30,19 @@ The project organizes relevant checkpoints based on different self-supervised le
 **SSRL name** \
 │
 ├── **pretrained** \
-│   │   ├── ratio1-1.pth \
-│   │   └── ratio1-5.pth \
-│   │   └──     ...    \
-│   │   └── ratio1-10,000.pth \
+│   ├── ratio1-1.pth \
+│   └── ratio1-5.pth \
+│   └──     ...    \
+│   └── ratio1-10,000.pth \
 ├── **downstream tasks** \
-│     ├── **linear probing** \
-│        └── ratio_1-100.pth \
-│        └──       ...       \
-│        └── ratio_100-100.pth \
-│     ├── **fine-tune**              \
-│        └── ratio_1-100.pth \
-│        └──           ...   \
-│        └── ratio_1-100.pth 
+│   ├── **linear probing** \
+│   │    └── ratio_1-100.pth \
+│   │    └──       ...       \
+│   │    └── ratio_100-100.pth \
+│   ├── **fine-tune**              \
+│   │    └── ratio_1-100.pth \
+│   │    └──      ...   \
+│   │    └── ratio_1-100.pth 
 
 The following table provides the relevant checkpoints:
 
