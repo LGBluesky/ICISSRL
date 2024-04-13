@@ -32,9 +32,8 @@ SSRL name \
 ├── pretrained \
 │   ├── ratio1-1.pth \
 │   └── ratio1-5.pth \
-│              ...
+│              ...    \
 │   └── ratio1-10,000.pth \
-
 ├── downstream taks \
 │   ├── linear probing \
 │        └── ratio_1-100.pth \
