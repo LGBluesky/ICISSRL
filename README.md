@@ -29,10 +29,10 @@ The project organizes relevant checkpoints based on different self-supervised le
 
 **SSRL name** \
 ├── **pretrained** \
-│   ├── ratio1-1.pth \
-│   └── ratio1-5.pth \
+    ├── ratio_1-1.pth \
+│   └── ratio_1-5.pth \
 │   └──     ...    \
-│   └── ratio1-10,000.pth \
+│   └── ratio_1-10,000.pth \
 ├── **downstream tasks** \
 │   ├── **linear probing** \
 │   │    └── ratio_1-100.pth \
